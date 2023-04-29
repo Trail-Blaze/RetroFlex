@@ -1,0 +1,32 @@
+{
+  "name": "retroflex",
+  "version": "1.0.0",
+  "description": "The Icarus API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trail-Blaze/RetroFlex.git"
+  },
+  "keywords": [
+    "api",
+    "trailblaze",
+    "blaze",
+    "fnps",
+    "private",
+    "server",
+    "server",
+    "fortnite",
+    "oldfn",
+    "rift",
+    "era"
+  ],
+  "author": "Trail-Blaze, GavinGoGaming, AlexDev404",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Trail-Blaze/RetroFlex/issues"
+  },
+  "homepage": "https://github.com/Trail-Blaze/RetroFlex#readme"
+}
