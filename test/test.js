@@ -1,4 +1,4 @@
-import { FWorld } from "../index";
+import { FWorld } from "../index"; // Only for testing. Else, use "npm i retroflex" and import from "retroflex"
 
 // Get world properties (state, game_mode, playlist, damage)
 // state could have the following values: "disengaged", "engaged", "inProgress"
@@ -15,7 +15,7 @@ FWorld.getPawnList().forEach((pawn) => {
 });
 
 // Move one pawn
-const myPawn = FWorld.getPawnByUsername("Array0x");
+const myPawn = FWorld.getPawnByUsername("UserName");
 
 myPawn.move(600, 600, 600); // x, y, z
 myPawn.costume("CID_016_Athena_Commando_F"); // Set the skin (changes the value in the profile's directory as well)
